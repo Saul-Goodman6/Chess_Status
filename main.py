@@ -22,7 +22,8 @@ elif check_response.status_code != 200:
 
 print("Username found!")
 print("Connecting to Discord...")
-rpc = Presence("Enter your ID here")
+app_id = input("Enter your Discord Application ID: ")
+rpc = Presence(app_id)
 
 try:
     rpc.connect()
