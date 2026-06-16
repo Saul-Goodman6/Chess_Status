@@ -2,6 +2,8 @@
 
 Show your Chess.com stats directly on your Discord profile in real time!
 
+![Discord Rich Presence Preview](github_preview.png)
+
 
 ```
 🟢 YourName
@@ -46,6 +48,10 @@ pip install -r requirements.txt
 ---
 
 ## ⚙️ Setup
+
+<p align="center">
+  <img src="github_preview1.png" alt="Discord Developer Portal" width="90%">
+</p>
 
 ### Discord Application ID
 1. Go to [Discord Developer Portal](https://discord.com/developers/applications)
