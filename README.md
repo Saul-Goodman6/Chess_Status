@@ -37,7 +37,7 @@ Show your Chess.com stats directly on your Discord profile in real time!
 **1. Clone the repository**
 ```bash
 git clone https://github.com/yourusername/chess-discord-presence
-cd chess-discord-presence
+cd Chess_Status
 ```
 
 **2. Install dependencies**
