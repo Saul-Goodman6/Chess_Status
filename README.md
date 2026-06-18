@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ## 🚀 Usage
 
 ```bash
-python3 chess_status.py
+python3 main.py
 ```
 
 You will be asked for:
